@@ -9,6 +9,6 @@
             "hash": "aba3f8d2974317dd5ae7387e8b17426b89b5452f6996f0af50ea0bb2084aee7c"
         }
     },
-    "homepage": "https://docs.stellwerk.dev",
-    "description": "The CLI for Stellwerk, octl."
+    "homepage": "https://docs.stellwerk.dev/",
+    "description": "Stellwerk CLI"
 }
