@@ -1,12 +1,12 @@
 {
-    "version": "2.3.0",
+    "version": "2.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/stellwerk-labs/platform-orchestrator-cli/releases/download/v2.3.0/platform-orchestrator-cli_2.3.0_windows_amd64.zip",
+            "url": "https://github.com/stellwerk-labs/platform-orchestrator-cli/releases/download/v2.4.0/platform-orchestrator-cli_2.4.0_windows_amd64.zip",
             "bin": [
                 "octl.exe"
             ],
-            "hash": "1fd15375935cf543113a5f6ff689c8da3de10f25bdde0e4358a5ed658b015d98"
+            "hash": "f5ee7247ecb1200be923f7c5c5a7fccbe8c25257fa2ecae76b65c526d183a9a4"
         }
     },
     "homepage": "https://docs.stellwerk.dev/",
